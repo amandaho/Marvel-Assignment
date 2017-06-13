@@ -1,0 +1,13 @@
+#table {
+  display: none;
+}
+
+#table tbody {
+  font-size: 18px;
+  text-align: center;
+}
+
+#table thead th {
+  font-size: 22px;
+  text-align: center;
+}
